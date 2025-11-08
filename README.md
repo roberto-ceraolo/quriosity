@@ -8,8 +8,10 @@ questioning behavior.
 </p>
 
 
-This repository accompanies our research paper titled "**_Quriosity_: Analyzing Human Questioning Behavior and Causal Inquiry through Curiosity-Driven Queries**" by *Roberto Ceraolo\*, Dmitrii Kharlapenko\*, Ahmad Khan\*, Amélie Reymond, Rada Mihalcea, Bernhard Schölkopf, Mrinmaya Sachan, Zhijing Jin*.
-The repo contains the code that we used to generate the dataset, the results and the plots that we used in the paper. The dataset will soon be published on the Hugging Face Hub.
+This repository accompanies our research paper titled "**_Quriosity_: Analyzing Human Questioning Behavior and Causal Inquiry through Curiosity-Driven Queries**" by *Roberto Ceraolo\*, Dmitrii Kharlapenko\*, Ahmad Khan\*, Amélie Reymond, Punya Syon Pandey, Rada Mihalcea, Bernhard Schölkopf, Mrinmaya Sachan, Zhijing Jin*.
+The repo contains the code that we used to generate the dataset, the results and the plots that we used in the paper.
+
+Hugging Face: [Quriosity](https://huggingface.co/datasets/causal-nlp/Quriosity)
 
 ## Repository Structure
 
